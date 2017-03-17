@@ -1,0 +1,86 @@
+html, body {
+	margin:0;
+	padding:0;
+	background: #233342;
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+}
+
+#willem { 
+	background: url(bg.svg) no-repeat center center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 350px;
+	float: 0;
+	left: 0;
+	position: relative;
+	width: 100%;
+}
+
+li {color:#fff;}
+
+.liefde {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 0px 0px 10px 10px;
+	color: #ffffff;
+}
+
+.maker {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 0px 10px 10px 0px;
+	color: #ffffff;
+}
+
+.telegram {
+	width: 100%;
+	text-align: center;
+	position: relative;
+	bottom: 0;
+}
+
+.telegram div {
+	padding: 20px 25px;
+	background: rgba(0,0,0,0.2);
+	font-size: 14px;
+}
+
+.telegram div:hover {
+	padding: 20px 25px;
+	background: rgba(0,0,0,0.3);
+}
+
+small a {
+	text-decoration: none;
+	color: #ffffff;
+	font-style: italic;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.side {
+	float:0;
+	width: 100%;
+	min-height: 400px;
+	height: initial;
+	position: relative;
+	font-size: 14px;
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	text-align:center;
+	font-size: 18px;
+}
+iframe {display: block;}
+ul {line-height:1.35;}
