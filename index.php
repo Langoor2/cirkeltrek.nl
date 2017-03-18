@@ -27,7 +27,7 @@
 			<br />
 
 			<div class="sociaal">
-				<h3>sociaal en zo</h3>
+				<h3>autisme en zo</h3>
 				<a href="https://discord.gg/2J27SJs">Kom meemen op Discord!</a>
 				<a href="https://telegram.me/willemsliefde">Kom meemen op Telegram!</a>
 			</div>
