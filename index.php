@@ -29,7 +29,7 @@
 			<div class="sociaal">
 				<h3>autisme en zo</h3>
 				<a href="https://discord.gg/2J27SJs">Kom meemen op Discord!</a>
-				<a href="https://telegram.me/cirkeltrek">Kom meemen op Telegram!</a>
+				<a href="https://t.me/WillemsLiefde">Kom meemen op Telegram!</a>
 			</div>
 		</div>
 		
