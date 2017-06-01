@@ -9,13 +9,13 @@
 	</head>
 	<body>
 		<div id="willem">
-			<small class="liefde"><a href="http://www.reddit.com/r/cirkeltrek/comments/2m2mic/willem_is_liefde_willem_is_leven/">Willem is liefde,<br>Willem is leven.</a></small>
+			<small class="liefde"><a href="https://www.reddit.com/r/cirkeltrek/comments/2m2mic/willem_is_liefde_willem_is_leven/">Willem is liefde,<br>Willem is leven.</a></small>
 			<small class="maker"><a href="https://github.com/Langoor2/cirkeltrek.nl">Deze pagina op gaannaaf</a></small>
 		</div>
 		<div class="side">
 			<h3>Links (niet rechts)</h3>
 			<ul>
-				<li><a href="http://reddit.com/r/cirkeltrek">Cirkeltrek op Lashet</a></li>
+				<li><a href="https://reddit.com/r/cirkeltrek">Cirkeltrek op Lashet</a></li>
 				<li><a href="https://onedrive.live.com/view.aspx?resid=A59E4E0FB7089E63!4615&ithint=file%2Cxlsx&app=Excel&authkey=!AO7T7hbQF3XdjtA">De Dikke van Willem</a></li>
 			</ul>
 			<br>
