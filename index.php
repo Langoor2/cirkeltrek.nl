@@ -21,16 +21,12 @@
 			<br>
 			
 			<a href="https://www.youtube.com/watch?v=hyB_VfrESNQ"><h3>het cirkeltreklied</h3></a>
-			<iframe width="100%" height="170" src="https://www.youtube.com/embed/hyB_VfrESNQ" frameborder="0" allowfullscreen></iframe>
-			<a href="https://www.youtube.com/watch?v=5FdEzwgOmtY"><h3>Stille willem</h3></a>
-			<iframe width="100%" height="170" src="https://www.youtube.com/embed/5FdEzwgOmtY" frameborder="0" allowfullscreen></iframe>
+			<iframe width="100%" height="170" src="https://www.youtube-nocookie.com/embed/hyB_VfrESNQ" frameborder="0" allowfullscreen></iframe>
+			<a href="https://www.youtube.com/watch?v=5FdEzwgOmtY"><h3>Fijn uitgedorste barbaar</h3></a>
+			<iframe width="100%" height="170" src="https://www.youtube-nocookie.com/embed/5FdEzwgOmtY" frameborder="0" allowfullscreen></iframe>
+			<a href="https://www.youtube.com/watch?v=qn1PAU0awK8"><h3>Specerijen</h3></a>
+			<iframe width="100%" height="170" src="https://www.youtube-nocookie.com/embed/qn1PAU0awK8" frameborder="0" allowfullscreen></iframe>
 			<br />
-
-			<div class="sociaal">
-				<h3>autisme en zo</h3>
-				<a href="https://discord.gg/2J27SJs">Kom meemen op Discord!</a>
-				<a href="https://t.me/WillemsLiefde">Kom meemen op Telegram!</a>
-			</div>
 		</div>
 		
 		<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
